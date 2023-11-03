@@ -432,7 +432,6 @@ g. deleteStaff
 h. menu1
 ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/a26ba2e9-7d44-4b01-9bee-854af492496b)
 
-- "private void staffbuttonActionPerformed(java.awt.event.ActionEvent evt) {" 
 - "private void staffbuttonActionPerformed(java.awt.event.ActionEvent evt) {":
 Ini adalah deklarasi dari method staffbuttonActionPerformed yang mengambil satu parameter dari tipe data ActionEvent yang disebut evt. Method ini merupakan event handler yang dipanggil ketika suatu aksi (seperti mengklik tombol) terjadi.
 
@@ -475,4 +474,53 @@ Ini adalah deklarasi dari method staffbuttonActionPerformed yang mengambil satu 
 
 ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/626d7fe7-ccf2-4898-bc6a-c9358e80d258)
 
-- 
+- "private void createClassActionPerformed(java.awt.event.ActionEvent evt)" :
+  Ini adalah deklarasi dari sebuah metode (fungsi) bernama createClassActionPerformed. Metode ini dipanggil ketika suatu event terjadi pada suatu komponen GUI yang memiliki aksi (action) "createClass". Parameter java.awt.event.ActionEvent evt menyatakan bahwa metode ini menerima objek bertipe ActionEvent sebagai parameter.
+
+- "createKelas ck = new createKelas();" :
+  Membuat objek baru dari kelas createKelas dan menetapkannya ke variabel ck. Ini adalah langkah untuk membuat instance dari antarmuka pengguna (UI) yang akan ditampilkan.
+
+- "ck.setVisible(true);":
+  Mengatur objek createKelas yang telah dibuat agar terlihat (visible) di layar. Dengan mengatur nilai true, antarmuka pengguna akan ditampilkan.
+
+- "this.dispose();" :
+  Menutup antarmuka pengguna saat ini (yang merupakan instance dari kelas yang memiliki metode createClassActionPerformed). Metode dispose() digunakan untuk membebaskan sumber daya yang digunakan oleh antarmuka pengguna, sehingga antarmuka pengguna dapat ditutup dengan benar.
+
+![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/25df5f64-e26c-4c5f-bdd6-d50b01411e8b)
+
+- "private void deleteClassActionPerformed(java.awt.event.ActionEvent evt) {":
+  Ini adalah deklarasi dari sebuah metode (fungsi) bernama deleteClassActionPerformed. Metode ini dipanggil ketika suatu event terjadi pada suatu komponen GUI yang memiliki aksi (action) "deleteClass". Parameter java.awt.event.ActionEvent evt menyatakan bahwa metode ini menerima objek bertipe ActionEvent sebagai parameter.
+
+- "deleteKelas dk = new deleteKelas();" :
+Membuat objek baru dari kelas deleteKelas dan menetapkannya ke variabel dk. Ini adalah langkah untuk membuat instance dari antarmuka pengguna (UI) yang akan ditampilkan.
+
+- "dk.setVisible(true);":
+  Mengatur objek deleteKelas yang telah dibuat agar terlihat (visible) di layar. Dengan mengatur nilai true, antarmuka pengguna akan ditampilkan.
+
+- "this.dispose();":
+  Menutup antarmuka pengguna saat ini (yang merupakan instance dari kelas yang memiliki metode deleteClassActionPerformed). Metode dispose() digunakan untuk membebaskan sumber daya yang digunakan oleh antarmuka pengguna, sehingga antarmuka pengguna dapat ditutup dengan benar.
+
+![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/b6b72ea9-a720-42e3-8fe2-2bfdff4f3a7a)
+
+- "private void updateClassActionPerformed(java.awt.event.ActionEvent evt) {":
+  Ini adalah deklarasi dari sebuah metode (fungsi) bernama updateClassActionPerformed. Metode ini dipanggil ketika suatu event terjadi pada suatu komponen GUI yang memiliki aksi (action) "updateClass". Parameter java.awt.event.ActionEvent evt menyatakan bahwa metode ini menerima objek bertipe ActionEvent sebagai parameter.
+
+- "updateMenu um = new updateMenu();" :
+  Membuat objek baru dari kelas updateMenu dan menetapkannya ke variabel um. Ini adalah langkah untuk membuat instance dari antarmuka pengguna (UI) yang akan ditampilkan.
+
+- "um.setVisible(true);" :
+  Mengatur objek updateMenu yang telah dibuat agar terlihat (visible) di layar. Dengan mengatur nilai true, antarmuka pengguna akan ditampilkan.
+
+- "this.dispose();" :
+  Menutup antarmuka pengguna saat ini (yang merupakan instance dari kelas yang memiliki metode updateClassActionPerformed). Metode dispose() digunakan untuk membebaskan sumber daya yang digunakan oleh antarmuka pengguna, sehingga antarmuka pengguna dapat ditutup dengan benar.
+
+![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/71b0b075-b083-47e0-b3a6-1d73a7ade372)
+- Berikut adalah kelas untuk kembali ke main menu.
+
+![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/e4625bfa-e151-4337-a990-768bf18029e3)
+- Berikut adalah kelas untuk menampilkan semua data pada Class MenuKelas.
+
+j. 
+
+
+
