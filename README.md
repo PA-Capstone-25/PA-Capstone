@@ -1,4 +1,4 @@
-![LOGICAL NEW](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/e98aeab8-6eb9-4fb7-9807-027147074e51)# PA-Capstone
+# PA-Capstone
 
 
 Judul Tema         : Pengolahan Data Taman Kanak-kanak (TK)
