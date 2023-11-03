@@ -444,6 +444,7 @@ Ini adalah deklarasi dari method staffbuttonActionPerformed yang mengambil satu 
 - "this.dispose();" :
   adalah sebuah method dari kelas Window yang menghancurkan window (jendela) saat ini. Dalam konteks ini, this.dispose() digunakan untuk menghapus jendela tempat tombol ini berada dari layar setelah jendela menustaff ditampilkan. Ini umumnya digunakan untuk membersihkan sumber daya dan membebaskan memori yang digunakan oleh jendela yang tidak lagi diperlukan.
 
+i. MenuMurid
 ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/408bb890-470e-4f8d-8ea1-4538c3208cb3)
 
 - "private void studentbuttonActionPerformed(java.awt.event.ActionEvent evt) {" :
@@ -486,6 +487,7 @@ Ini adalah deklarasi dari method staffbuttonActionPerformed yang mengambil satu 
 - "this.dispose();" :
   Menutup antarmuka pengguna saat ini (yang merupakan instance dari kelas yang memiliki metode createClassActionPerformed). Metode dispose() digunakan untuk membebaskan sumber daya yang digunakan oleh antarmuka pengguna, sehingga antarmuka pengguna dapat ditutup dengan benar.
 
+j. MenuKelas
 ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/25df5f64-e26c-4c5f-bdd6-d50b01411e8b)
 
 - "private void deleteClassActionPerformed(java.awt.event.ActionEvent evt) {":
@@ -520,7 +522,61 @@ Membuat objek baru dari kelas deleteKelas dan menetapkannya ke variabel dk. Ini 
 ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/e4625bfa-e151-4337-a990-768bf18029e3)
 - Berikut adalah kelas untuk menampilkan semua data pada Class MenuKelas.
 
-j. 
+k. MenuMurid
 
+![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/a663c6c6-c284-423b-bb87-3e26dc9b3e44)
+- Berikut adalah kelas untuk button interface membuat data murid.
 
+![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/b361ccc4-e6a4-4adf-90fd-f05f305ccac0)
+- Berikut adalah kelas untuk button interface kembali ke main menu.
 
+![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/75ea86e8-b0c9-430f-b21a-a6d3c6c2f4f9)
+- Berikut adalah kelas untuk button interface menghapus data murid.
+
+![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/6032f5c9-7f3e-46ee-9aae-5f1156b21382)
+- Berikut adalah kelas untuk button interface menampilkan data murid.
+
+![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/691239db-fd3a-4560-8ddc-6c8f3e19157a)
+- Berikut adalah kelas untuk button interface mengupdate data murid.
+
+l. MenuStaff
+
+![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/e1681c61-8754-4d8d-9a34-0e0ccf9c0910)
+- Berikut adalah kelas untuk button interface membuat data staff.
+
+![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/acec0d0b-4d26-49af-b6a9-9ebcc8059fe3)
+- Berikut adalah kelas untuk button interface kembali ke main menu.
+
+![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/c31bff92-68e2-439e-bd80-e7f4d3f0ad33)
+- Berikut adalah kelas  untuk button interface menampilkan data staff.
+
+![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/1c70678c-47a6-4f4a-bd97-6ffe0a992b97)
+- Berikut adalah kelas untuk button interface menghapus data staff.
+
+![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/bc3238f5-b2bc-40a0-be8f-790bb56ffd58)
+- Berikut adalah kelas untuk button interface mengupdate data staff.
+
+M. ShowKelas
+![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/9da0e589-94a8-4ab4-84e6-7d1dc8a6533d)
+- Berikut adalah kelas untuk button interface pada menu show/read pada menu kelas.
+
+![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/d03dcdd0-aa8a-4674-a43e-75192deba4bc)
+- Berikut adalah kelas untuk button interface pada menu show/read menu murid.
+
+![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/ca6d73cf-94b9-48bb-b486-6863787f3395)
+- Berikut adalah kelas untuk button interface pada menu show/read menu staff.
+
+![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/ed4817f9-0be7-437d-8619-948de949083f)
+- Berikut adalah kelas untuk button interface pada menu update kelas.
+
+![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/f481ba42-8e30-4882-919e-06195cabca0f)
+- Berikut adalah kelas untuk button interface pada menu update kelas khusus.
+
+![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/0c52392b-fd76-4133-834f-b5ae5bae41e2)
+- Berikut adalah kelas untuk button interface pada menu update untuk jenis kelas.
+
+![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/be7d29b4-5084-4f7d-a1d7-39532784f3d9)
+- Berikut adalah kelas untuk button interface pada menu update untuk murid.
+
+![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/71861d90-d37f-41e4-a67f-6566e5cea2d4)
+- Berikut adalah kelas untuk button interface pada menu update untuk staff.
