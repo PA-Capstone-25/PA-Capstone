@@ -1,6 +1,21 @@
-# PA-Capstone
+![LOGICAL NEW](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/e98aeab8-6eb9-4fb7-9807-027147074e51)# PA-Capstone
 
-Judul Tema : Pengolahan Data Taman Kanak-kanak (TK)
+
+Judul Tema         : Pengolahan Data Taman Kanak-kanak (TK)
+
+Deskripsi Project  : 
+  Pendidikan anak usia dini memiliki peran yang sangat penting dalam membentuk dasar perkembangan anak secara menyeluruh. Salah satu lembaga pendidikan formal untuk anak usia dini adalah taman kanak-kanak (TK). Pengelolaan data taman kanak-kanak merupakan aspek krusial dalam menjaga kualitas pendidikan anak-anak ini. Dalam era digital seperti sekarang, pemrograman berorientasi objek menjadi solusi yang efisien dan inovatif untuk mengelola data taman kanak-kanak dengan lebih terstruktur dan efektif.
+  Laporan praktikum ini bertujuan untuk memberikan pemahaman kepada para mahasiswa tentang konsep dasar pemrograman berorientasi objek serta mengaplikasikannya dalam konteks pengelolaan data taman kanak-kanak. Dengan memahami prinsip-prinsip dasar pemrograman berorientasi objek, mahasiswa diharapkan dapat merancang dan mengimplementasikan sistem informasi taman kanak-kanak yang efisien, aman, dan mudah dipahami.
+  Dalam praktikum ini, para mahasiswa akan mempelajari konsep-konsep dasar pemrograman berorientasi objek seperti kelas, objek, enkapsulasi, pewarisan, polimorfisme, serta konsep pengelolaan data menggunakan struktur data berbasis objek. Selain itu, praktikum ini juga akan membahas penggunaan GUI (Antarmuka Pengguna Grafis) untuk meningkatkan user experience dalam mengelola data taman kanak-kanak.
+  Melalui laporan praktikum ini, diharapkan para mahasiswa dapat mengembangkan keterampilan pemrograman berorientasi objek mereka serta mengaplikasikannya dalam konteks nyata, yaitu pengelolaan data taman kanak-kanak. Dengan demikian, laporan ini menjadi landasan penting untuk menghadapi tantangan pengembangan aplikasi di dunia nyata dengan memanfaatkan prinsip-prinsip pemrograman berorientasi objek.
+
+Flowchart      : 
+![PA FC FIX drawio](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/a8adf6b4-bd6b-4428-9f38-b3ff9d3fa48c)
+
+ERD            : 
+![LOGICAL NEW](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/f67cd778-37b6-4bf4-b579-ec6c7ec1e040)
+
+
 
 Projek Akhir ini terdiri dari 4 Package, yaitu:
 - Package 1 = Controller
