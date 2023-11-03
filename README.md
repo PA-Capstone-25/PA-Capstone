@@ -15,7 +15,7 @@ Flowchart      :
 ERD            : 
 ![LOGICAL NEW](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/f67cd778-37b6-4bf4-b579-ec6c7ec1e040)
 
-
+Hirearki       : Kelas (Supertype), Regular (Subtype), Khusus (Subtype).
 
 Projek Akhir ini terdiri dari 4 Package, yaitu:
 - Package 1 = Controller
@@ -595,3 +595,83 @@ M. ShowKelas
 
 ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/71861d90-d37f-41e4-a67f-6566e5cea2d4)
 - Berikut adalah kelas untuk button interface pada menu update untuk staff.
+
+
+
+Output
+a. Login
+  1. Failed Login
+![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/5c40b830-a8f4-4b94-8f3d-2f2abc0ad911)
+
+  2. Login Successed
+     ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/db72a336-6050-4d58-a77c-63fe2455beb9)
+     
+  3. Main Menu
+     ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/65e4672a-220b-4b50-861b-25581658b679)
+
+  4. Menu Staff
+     ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/bd0214ac-3679-4458-9122-f5cc4cab4b4c)
+     
+  5. Menu Create Staff
+     ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/aa97014e-0fea-4c0c-ad8f-83cdce435dce)
+     
+      ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/c738cde4-b1c0-44e4-9f82-46bcb5df91fd)
+     
+     ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/d7638bd7-77d5-4140-8744-71cc109ca199)
+      
+  7. Menu Update Staff
+![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/c70c3d92-d446-4653-a812-546466ff0a5b)
+
+    ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/e7af3011-b59d-4fce-bfe0-3b9b2928e103)
+
+  8. Menu Delete Staff
+     ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/8e741d83-7b77-4c89-8719-7fc3bee5ab64)
+     
+     ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/79e8fb6f-44bb-4b1a-849c-f99814d76b57)
+
+  9. Menu Read Staff
+     ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/202f7f4d-de38-45e5-aa89-ca7436017fc2)
+
+  10. Menu Create Student
+      ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/4a722283-65b0-4ef4-a504-c201421debb0)
+     
+      ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/61f64435-cb9a-414e-9d5f-692006e8ef26)
+     
+  11. Menu Read Student
+      ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/928b7afc-a50a-4b31-bcc5-eed6d156dc52)
+
+  12. Menu Delete Student
+      ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/f6412cb0-e631-4625-8553-e10c79fdace5)
+      
+      ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/3dafc225-f2a0-4e39-84d6-a8da198bd886)
+
+  13. Menu Update Student
+      ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/9b3a4ae7-9407-4077-be4c-e4fdca0ed76e)
+      
+      ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/9748305f-50ed-4a64-8fbb-1aac9052bb77)
+
+  14. Main Menu Student
+      ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/ca1c721f-ea82-4573-bc34-84ed82855374)
+
+  15. Main Menu Kelas
+      ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/5660e9c6-f7a5-47e5-b9fb-a30862c051bf)
+
+  16. Menu Create Kelas
+      ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/f52b33e5-3209-4813-836a-a6d357259eec)
+      
+      ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/8f70dd79-350a-460b-a058-33280158558e)
+
+  17. Menu Read Kelas
+      ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/977033ab-1e92-4251-b971-d54091f7bf80)
+
+  18. Menu Delete Kelas
+      ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/38bed300-080d-4b47-ad20-1732ce766fa0)
+      
+      ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/c8a8c115-0e03-440d-bf2f-29d6c2711802)
+
+  19. Menu Update Kelas
+      ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/cd0a3e18-ca8c-491d-a45c-4ce4f678f1dc)
+      
+      ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/67c6f9c8-d92c-4a00-b7d7-a80fa7bf70e4)
+      
+      ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/8aaa5207-9bbc-4914-8ca4-1fcf5e1477c2)
