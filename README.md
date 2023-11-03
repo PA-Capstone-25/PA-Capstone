@@ -432,5 +432,46 @@ g. deleteStaff
 h. menu1
 ![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/122219678/a26ba2e9-7d44-4b01-9bee-854af492496b)
 
-- "private void staffbuttonActionPerformed(java.awt.event.ActionEvent evt) {" 
+- "private void staffbuttonActionPerformed(java.awt.event.ActionEvent evt) {":
+Ini adalah deklarasi dari method staffbuttonActionPerformed yang mengambil satu parameter dari tipe data ActionEvent yang disebut evt. Method ini merupakan event handler yang dipanggil ketika suatu aksi (seperti mengklik tombol) terjadi.
 
+- "menustaff mn = new menustaff();"
+  Di dalam method ini, sebuah objek baru dari kelas menustaff dibuat menggunakan konstruktor tanpa parameter. Objek ini diinisialisasi dan disimpan dalam variabel lokal mn.
+
+- "mn.setVisible(true);" :
+  Method setVisible(true) dipanggil pada objek mn. Ini berarti mengatur properti objek mn sehingga menjadi terlihat (visible) di antarmuka pengguna. Dalam konteks GUI Java, ini biasanya digunakan untuk menampilkan jendela atau frame pada layar.
+
+- "this.dispose();" :
+  adalah sebuah method dari kelas Window yang menghancurkan window (jendela) saat ini. Dalam konteks ini, this.dispose() digunakan untuk menghapus jendela tempat tombol ini berada dari layar setelah jendela menustaff ditampilkan. Ini umumnya digunakan untuk membersihkan sumber daya dan membebaskan memori yang digunakan oleh jendela yang tidak lagi diperlukan.
+
+![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/408bb890-470e-4f8d-8ea1-4538c3208cb3)
+
+- "private void studentbuttonActionPerformed(java.awt.event.ActionEvent evt) {" :
+  Ini adalah deklarasi dari sebuah metode (fungsi) bernama studentbuttonActionPerformed. Metode ini dipanggil ketika suatu event terjadi pada tombol (button) yang memiliki aksi (action) "studentbutton". Parameter java.awt.event.ActionEvent evt menyatakan bahwa metode ini menerima objek bertipe ActionEvent sebagai parameter.
+
+- "menuMurid mn = new menuMurid();" :
+  Membuat objek baru dari kelas menuMurid dan menetapkannya ke variabel mn. Ini adalah langkah untuk membuat instance dari antarmuka pengguna (UI) yang akan ditampilkan.
+
+- "mn.setVisible(true);"
+  Mengatur objek menuMurid yang telah dibuat agar terlihat (visible) di layar. Dengan mengatur nilai true, antarmuka pengguna akan ditampilkan.
+
+- "this.dispose();" :
+  Menutup antarmuka pengguna saat ini (yang merupakan instance dari kelas yang memiliki metode studentbuttonActionPerformed). Metode dispose() digunakan untuk membebaskan sumber daya yang digunakan oleh antarmuka pengguna, sehingga antarmuka pengguna dapat ditutup dengan benar.
+  
+![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/4d6881f2-56d6-4a45-a86d-8f5f82188dbb)
+
+- "private void classbuttonActionPerformed(java.awt.event.ActionEvent evt) {" :
+  Ini adalah deklarasi dari sebuah metode (fungsi) bernama classbuttonActionPerformed. Metode ini dipanggil ketika suatu event terjadi pada tombol (button) yang memiliki aksi (action) "classbutton". Parameter java.awt.event.ActionEvent evt menyatakan bahwa metode ini menerima objek bertipe ActionEvent sebagai parameter.
+
+- "menuKelas mc = new menuKelas();" :
+  Membuat objek baru dari kelas menuKelas dan menetapkannya ke variabel mc. Ini adalah langkah untuk membuat instance dari antarmuka pengguna (UI) yang akan ditampilkan.
+
+- "mc.setVisible(true);":
+  Mengatur objek menuKelas yang telah dibuat agar terlihat (visible) di layar. Dengan mengatur nilai true, antarmuka pengguna akan ditampilkan.
+
+- "this.dispose();":
+  Menutup antarmuka pengguna saat ini (yang merupakan instance dari kelas yang memiliki metode classbuttonActionPerformed). Metode dispose() digunakan untuk membebaskan sumber daya yang digunakan oleh antarmuka pengguna, sehingga antarmuka pengguna dapat ditutup dengan benar.
+
+![image](https://github.com/PA-Capstone-25/PA-Capstone/assets/127498258/626d7fe7-ccf2-4898-bc6a-c9358e80d258)
+
+- 
